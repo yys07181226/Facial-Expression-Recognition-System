@@ -32,11 +32,11 @@ To train the YOLO model, modify the parameters in the train_YOLO.py file accordi
 run the file demo_emotion_recognition_cam.py
 
 ### Key Parameters
-model_path: Path to the trained model weights.
-class_names: List of emotion class names.
-device: Device to run the model ("0" for GPU, "cpu" for CPU).
-cam_id: Camera ID for the input video stream.
-imgsz: Input image size for inference.
+* model_path: Path to the trained model weights.
+* class_names: List of emotion class names.
+* device: Device to run the model ("0" for GPU, "cpu" for CPU).
+* cam_id: Camera ID for the input video stream.
+* imgsz: Input image size for inference.
 
 ## Dataset Characteristics
 * Collection: Images are collected from real-world scenarios to ensure diversity in facial expressions.
