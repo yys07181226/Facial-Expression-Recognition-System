@@ -45,8 +45,7 @@ run the file demo_emotion_recognition_cam.py
     * Training Set: Approximately 12,000 samples (77.4%)
     * Testing Set: Approximately 3,500 samples (22.6%)
 
-## Results
-Refer to the report.pdf for a detailed analysis of the model's performance, evaluation metrics, and future improvements.
+
 
 
 
